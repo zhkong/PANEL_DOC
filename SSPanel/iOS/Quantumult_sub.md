@@ -15,7 +15,7 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 ## 配置方案
 
-此文中讲述在 Quantumult 中配置 SSR、V2ray、分流规则订阅。
+此文中讲述在 Quantumult 中配置 SSR 、分流规则订阅。
 
 如您需要更细化的配置，如使用策略组等，请 **[点此查阅](/iOS/Quantumult_conf.md)** 相关的使用方案，否则请往下继续。
 
