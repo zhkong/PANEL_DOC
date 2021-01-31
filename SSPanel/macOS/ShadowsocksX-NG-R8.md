@@ -1,6 +1,6 @@
 ## 应用下载
 
-- Windows：[ShadowsocksRR](/ssr-download/ssr-mac.dmg)
+- macOS：[ShadowsocksX-NG-R8](/ssr-download/ssr-mac.dmg)
 
 下载ShadowsocksX-NG-R8，把软件移到“应用程序文件夹中”
 
