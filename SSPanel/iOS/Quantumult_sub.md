@@ -1,8 +1,8 @@
 ## 应用概述
 
-Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、ShadowsocksR 以及 VMess 协议。
+Quantumult 是在 iOS 平台上的客户端软件，支持 ShadowsocksR 协议。
 
-目前 Quantumult 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。
+目前 Quantumult 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。*美区Apple ID[注册教程](https://www.ifanr.com/app/1367245)**。
 
 !> 这是一个付费软件，你需要购买才能使用。
 
@@ -17,7 +17,6 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 此文中讲述在 Quantumult 中配置 SSR 、分流规则订阅。
 
-如您需要更细化的配置，如使用策略组等，请 **[点此查阅](/iOS/Quantumult_conf.md)** 相关的使用方案，否则请往下继续。
 
 ## 获取订阅
 
